@@ -1,4 +1,4 @@
-# create-and-mount-EFS-using-CLI![image](https://user-images.githubusercontent.com/109040029/195967881-68a16a1d-2af9-4d43-af4a-f09559537a54.png)
+# create-and-mount-EFS-using-CLI
 
 Create and connect to an EC2 Instance, create EFS volume and  attach to already running instance using CLI
 
