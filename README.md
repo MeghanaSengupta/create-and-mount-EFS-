@@ -35,3 +35,16 @@ C:\Users>cd Shourya
 
 ![image](https://user-images.githubusercontent.com/109040029/195967901-0e9c27ae-19d5-4373-90ed-540e5ac057ee.png)
 
+
+
+To unmount the EFS run the below command:
+
+umount -f /usr/bin/efs
+
+aws ec2 terminate-instances --instance-ids i-0e33a5732cdc15ce4
+
+aws efs delete-file-system --file-system-id fs-02c7d79a98d6bf661
+
+![image](https://user-images.githubusercontent.com/109040029/195967987-627a2389-8fa3-478e-ba08-6c42436c388b.png)
+
+
